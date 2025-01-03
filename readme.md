@@ -6,5 +6,5 @@ My personal Fish shell configuration files.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/dotfiles.git
+   git clone ssh://github.com/bobflorian/dotfiles.git
    cd dotfiles
